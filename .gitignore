@@ -22,3 +22,7 @@ settings.json
 *.png
 *.jpg
 *.jpeg
+
+data/
+ppt 템플릿/
+연구실 기존 논문/
