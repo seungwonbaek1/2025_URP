@@ -1,0 +1,23 @@
+# 파이썬 캐시 파일 제외
+__pycache__/
+*.py[cod]
+
+# 엑셀/워드/한글/파워포인트 문서 제외
+*.hwp
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.pdf
+*.zip
+
+# VS Code 설정 제외 (필요 시)
+.vscode/
+settings.json
+
+# 이미지 제외 (선택적)
+*.png
+*.jpg
+*.jpeg
