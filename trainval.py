@@ -20,7 +20,7 @@ LABEL_DIR = os.path.join(DATA_DIR, "labels")
 CAM_SAVE_DIR = os.path.join(DATA_DIR, "cam")
 os.makedirs(CAM_SAVE_DIR, exist_ok=True)
 
-forecast_cycles = [500]
+forecast_cycles = [500] #수정사항
 splits = [0]
 origins = [100]
 transform_modes = [
