@@ -12,6 +12,7 @@ __pycache__/
 *.xlsx
 *.pdf
 *.zip
+*.csv
 
 # VS Code 설정 제외 (필요 시)
 .vscode/
