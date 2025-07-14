@@ -13,7 +13,7 @@ import cv2
 from tqdm import tqdm
 
 # -------------------------
-# 경로 설정
+# 경로 설정 #sdfasdfasdf
 # -------------------------
 DATA_DIR = r"D:\cnn_data"
 LABEL_DIR = os.path.join(DATA_DIR, "labels")
